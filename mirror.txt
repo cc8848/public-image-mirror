@@ -47,6 +47,7 @@ docker.io/cloudnas/clouddrive2-unstable
 docker.io/coredns/coredns
 docker.io/csiplugin/snapshot-controller
 docker.io/curlimages/curl
+docker.io/certbot/certbot
 docker.io/deepflowce/clickhouse-server
 docker.io/deepflowce/deepflow-agent
 docker.io/deepflowce/deepflow-app
